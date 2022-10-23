@@ -4,4 +4,4 @@ Bootstrap ile Web Site Yapımı
 
 <h2>Ekran Görünütüsü</h2>
 
-![](gif.gif)
+![](20221023_035236.gif)
